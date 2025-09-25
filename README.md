@@ -6,7 +6,7 @@ You can add this crate as dependence by:
 
 ```toml
 [dependencies]
-splay-tree = "0.1"
+splay-tree-rs = "0.1"
 ```
 
 The main algorithm of splay function is reference from:
