@@ -1,6 +1,6 @@
 [package]
 name = "splay-tree-rs"
-version = "0.1.0"
+version = "0.1.1"
 license = "MIT"
 repository = "https://github.com/jellytech3438/splay-tree"
 description = "The implementation of data structure splay tree in Rust. Splay tree uses splay algorithm to balance itself and it allows to access node (insert, search, delete) on average of O(logn)."
